@@ -1,0 +1,1 @@
+import{o as t,c as e,a}from"./app.377163b2.js";const n='{"title":"laravel发邮箱","description":"","frontmatter":{},"headers":[{"level":2,"title":"基础使用","slug":"基础使用"}],"relativePath":"components/mapLocus.md","lastUpdated":1690536970445}',l={},o=a('',11);l.render=function(a,n,l,r,s,d){return t(),e("div",null,[o])};export default l;export{n as __pageData};

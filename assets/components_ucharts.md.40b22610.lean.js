@@ -1,0 +1,1 @@
+import{o as t,c as o,a as u}from"./app.377163b2.js";const s='{"title":"form表单中有bootstrap-switch时怎么提交表单,消失的提交参数","description":"","frontmatter":{},"relativePath":"components/ucharts.md","lastUpdated":1690791380967}',e={},n=u('',8);e.render=function(u,s,e,a,i,c){return t(),o("div",null,[n])};export default e;export{s as __pageData};
