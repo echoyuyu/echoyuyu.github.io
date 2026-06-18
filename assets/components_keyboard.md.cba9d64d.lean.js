@@ -1,0 +1,1 @@
+import{o as a,c as e,a as n}from"./app.f965f9eb.js";const t='{"title":"自定义键盘","description":"","frontmatter":{},"relativePath":"components/keyboard.md","lastUpdated":1693446480305}',r={},l=n('',2);r.render=function(n,t,r,o,s,i){return a(),e("div",null,[l])};export default r;export{t as __pageData};

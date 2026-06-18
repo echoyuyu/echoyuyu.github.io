@@ -1,0 +1,1 @@
+import{o as a,c as e,a as n}from"./app.f965f9eb.js";const s='{"title":"宋承昊的博客-文档","description":"","frontmatter":{},"headers":[{"level":2,"title":"如何本地开发","slug":"如何本地开发"}],"relativePath":"README.md","lastUpdated":1689390594380}',t={},r=n('',7);t.render=function(n,s,t,o,c,i){return a(),e("div",null,[r])};export default t;export{s as __pageData};

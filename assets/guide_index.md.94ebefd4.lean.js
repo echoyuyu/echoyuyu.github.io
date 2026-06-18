@@ -1,0 +1,1 @@
+import{o as p,c as e,a}from"./app.f965f9eb.js";const r='{"title":"苹果手机拍照设置","description":"","frontmatter":{},"relativePath":"guide/index.md","lastUpdated":1696731892042}',i={},t=a('',16);i.render=function(a,r,i,h,n,d){return p(),e("div",null,[t])};export default i;export{r as __pageData};
