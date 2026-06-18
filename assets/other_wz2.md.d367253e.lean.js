@@ -1,0 +1,1 @@
+import{o as t,c as i,a as e}from"./app.fcda16e3.js";const p='{"title":"git忽略文件上传 笔记","description":"","frontmatter":{},"headers":[{"level":2,"title":"git忽略文件上传 笔记","slug":"git忽略文件上传-笔记"}],"relativePath":"other/wz2.md","lastUpdated":1689665502079}',a={},s=e('',3);a.render=function(e,p,a,o,r,c){return t(),i("div",null,[s])};export default a;export{p as __pageData};

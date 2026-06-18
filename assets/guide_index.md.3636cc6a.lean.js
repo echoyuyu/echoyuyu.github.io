@@ -1,0 +1,1 @@
+import{o as p,c as e,a}from"./app.fcda16e3.js";const r='{"title":"苹果手机拍照设置","description":"","frontmatter":{},"relativePath":"guide/index.md","lastUpdated":1696731892042}',i={},t=a('',16);i.render=function(a,r,i,d,h,n){return p(),e("div",null,[t])};export default i;export{r as __pageData};

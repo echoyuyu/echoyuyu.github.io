@@ -1,0 +1,1 @@
+import{o as t,c as e,a as n}from"./app.fcda16e3.js";const a='{"title":"fetch请求 笔记","description":"","frontmatter":{},"headers":[{"level":2,"title":"fetch请求 笔记","slug":"fetch请求-笔记"}],"relativePath":"components/wz4.md","lastUpdated":1690504743803}',i={},o=n('',5);i.render=function(n,a,i,p,l,r){return t(),e("div",null,[o])};export default i;export{a as __pageData};
